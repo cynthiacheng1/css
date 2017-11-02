@@ -1,0 +1,47 @@
+body{
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+}
+
+h1{
+  font-family: arial, verdana;
+  color:blue;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: courier, courier-new, serif;
+  font-size: 90pt;
+  color: #6B6BD7;
+}
+li{
+ color:red;
+ text-align: center;
+}
+
+body{
+    color: pink;
+    font-family: "Times New Roman", Times, serif;
+}
+h3, h2{
+    color: blue;
+    font-style: italic;
+}
+
+.extreme{
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.prose{
+  background-color: pink;
+  text-align: center;
+}
+
+#tehlulz{
+  color: pink;
+  background-color: white;
+  text-align: center;
+}
